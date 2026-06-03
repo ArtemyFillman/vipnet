@@ -1,4 +1,4 @@
-[🏠 Главная](index.md)
+[🏠 Главная](README.md)
 
 # Задание 5.1 — аккредитованный УЦ, сертификаты, публикация, регистрация
 
@@ -208,4 +208,4 @@ C:\ProgramData\InfoTeCS\ViPNet Administrator\KC
 
 | ⬅️ Назад | 🏠 | Вперёд ➡️ |
 |---|---|---|
-| [Задание 4.1](05-zadanie-4-1-dop-soft.md) | [Содержание](index.md) | [Задание 5.2 — Компрометация](07-zadanie-5-2-komprometaciya.md) |
+| [Задание 4.1](05-zadanie-4-1-dop-soft.md) | [Содержание](README.md) | [Задание 5.2 — Компрометация](07-zadanie-5-2-komprometaciya.md) |

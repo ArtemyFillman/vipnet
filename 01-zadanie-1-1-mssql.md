@@ -1,4 +1,4 @@
-[🏠 Главная](index.md)
+[🏠 Главная](README.md)
 
 # Задание 1.1 — установка базы данных MSSQL на Net1-Open (незащищённый узел)
 
@@ -134,4 +134,4 @@ C:\Users\student\Desktop\ViPNet Administrator 4.6.7_R1\Комплект поль
 
 | ⬅️ Назад | 🏠 | Вперёд ➡️ |
 |---|---|---|
-| [Подготовка](00-podgotovka.md) | [Содержание](index.md) | [Задание 2.1 — ЦУС и УКЦ](02-zadanie-2-1-cus-ukc.md) |
+| [Подготовка](00-podgotovka.md) | [Содержание](README.md) | [Задание 2.1 — ЦУС и УКЦ](02-zadanie-2-1-cus-ukc.md) |
